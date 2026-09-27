@@ -10,6 +10,7 @@ Each idea is a short paper: the problem, the proposed approach, how it stays ris
 | --- | --- | --- |
 | 1 | [Risk-Based Sanctions Screening: A Fail-Open Architecture for Payment Transactions](01-risk-based-sanctions-screening-fail-open.md) | Implemented in production |
 | 2 | [Screen What You Verified: Sequencing Sanctions Screening After CIP Verification](02-sequence-sanctions-screening-after-cip.md) | Design recommendation |
+| 3 | [Fix the Foundation: Why Entity Resolution Comes Before Everything Else in Financial Crime Compliance](03-entity-resolution-fix-the-foundation.md) | Perspective, grounded in a production implementation |
 
 More to follow.
 
