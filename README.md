@@ -9,6 +9,7 @@ Each idea is a short paper: the problem, the proposed approach, how it stays ris
 | # | Idea | Status |
 | --- | --- | --- |
 | 1 | [Risk-Based Sanctions Screening: A Fail-Open Architecture for Payment Transactions](01-risk-based-sanctions-screening-fail-open.md) | Implemented in production |
+| 2 | [Screen What You Verified: Sequencing Sanctions Screening After CIP Verification](02-sequence-sanctions-screening-after-cip.md) | Design recommendation |
 
 More to follow.
 
