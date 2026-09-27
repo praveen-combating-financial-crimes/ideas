@@ -1,6 +1,6 @@
 # Ideas
 
-Ideas and architecture patterns for financial crimes compliance and risk platforms, drawn from 10+ years building KYC, sanctions, transaction monitoring, and investigations products for global payments and banking.
+Ideas and architecture patterns for financial crimes compliance and risk platforms, and for the data and AI foundations underneath them, drawn from 10+ years building KYC, sanctions, transaction monitoring, and investigations products for global payments and banking.
 
 Each idea is a short paper: the problem, the proposed approach, how it stays risk-based, what to configure, what to measure, and what is still open. They are written to be adapted to a firm's own risk appetite, not copied as-is.
 
@@ -11,6 +11,7 @@ Each idea is a short paper: the problem, the proposed approach, how it stays ris
 | 1 | [Risk-Based Sanctions Screening: A Fail-Open Architecture for Payment Transactions](01-risk-based-sanctions-screening-fail-open.md) | Implemented in production |
 | 2 | [Screen What You Verified: Sequencing Sanctions Screening After CIP Verification](02-sequence-sanctions-screening-after-cip.md) | Design recommendation |
 | 3 | [Fix the Foundation: Why Entity Resolution Comes Before Everything Else in Financial Crime Compliance](03-entity-resolution-fix-the-foundation.md) | Perspective, grounded in a production implementation |
+| 4 | [The Product Manager as Librarian: Organizing Data So Agents Do Not Guess](04-product-manager-as-librarian.md) | Pattern from a production AI analytics product |
 
 More to follow.
 
